@@ -16,3 +16,8 @@ env/
 # System
 .DS_Store
 Thumbs.db
+
+# Все Python-файлы для тестирования
+*test*.py
+test*.py
+*_test.py
