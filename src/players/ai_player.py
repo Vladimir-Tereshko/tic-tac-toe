@@ -3,7 +3,7 @@
 """
 
 import random
-from typing import Tuple, List
+from typing import Tuple, List, Optional
 from .base_player import Player
 from ..board import Board
 
